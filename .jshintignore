@@ -1,0 +1,6 @@
+node_modules/
+build/
+dir/another_unlinted_script.js
+lib/
+public/
+client/
